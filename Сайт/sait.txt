@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Кашник</title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="Кашник">  
+        <meta name="description" content="AleBar самая zнатная компания и корпарация и фирма и кафешечка мира"                  
+    </head>
+    <body> 
+    
+    </body>
+</html>
